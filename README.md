@@ -1,6 +1,6 @@
 # Hi there, I'm Sohel 👋
 
-Welcome to my GitHub profile! I'm **Sohel-Digital**, a passionate developer focused on building impactful projects and learning new technologies every day.
+I'm **Sohel Rana**, a passionate developer focused on building impactful projects and learning new technologies every day.
 
 ## 🚀 About Me
 
