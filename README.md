@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm **Sohel-Digital**, a passionate developer focu
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [linkedin.com/in/sohel-digital](https://linkedin.com/in/sohel-digital)
-- **Email:** soheldigital@gmail.com
+- **LinkedIn:** [[linkedin.com/in/sohel-digital](https://www.linkedin.com/company/soheldigital)]([https://linkedin.com/in/sohel-digital](https://www.linkedin.com/company/soheldigital))
+- **Email:** contact@sohel.digital
 
 ## ⚡ Fun Fact
 
